@@ -1,0 +1,61 @@
+.container{
+   background-color: black;
+}
+.emailForm {
+   display:flex;
+   flex-direction: column;
+   
+}
+.nameInput{
+ align-self: center;
+ 
+}
+
+.nameLabel{
+align-self: center;
+color: peachpuff;
+
+}
+
+.emailInput{
+   align-self: center;
+}
+
+.emailLabel
+{
+   align-self: center;
+   color: peachpuff;
+   
+
+}
+
+.birthdayLabel{
+   align-self: center;
+   color: peachpuff;
+}
+
+.birthdayInput{
+   align-self: center;
+   
+}
+
+.error{
+   align-self: center;
+   color: peachpuff;
+}
+
+.submitButton {
+   align-self: center;
+   width: 10%;
+   border-radius: 1rem;
+   background-color: peachpuff;
+}
+
+
+
+.acceptTermsLabel{
+   color: peachpuff;
+}
+.title {
+   color:peachpuff;
+}
